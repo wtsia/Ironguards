@@ -1,0 +1,52 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"wtsia"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.5.4"
+			],
+			"dash": [
+				"0.10.8"
+			]
+		}
+	},
+	"header": {
+		"name": "Ironguards",
+		"description": "An Add-on that allows players to utilize Chinese and Viking based NPCs as guards.",
+		"min_engine_version": [
+			1,
+			19,
+			60
+		],
+		"uuid": "8df16576-5df0-453b-90fb-7a204a2d30f9",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "1c3558f7-e0e3-4489-81ce-f1664048b7e7",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "3b03af53-2045-4a8c-8eab-443eae0b8acd",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}
